@@ -1,2 +1,3 @@
 # hello-world
 First repository following hello world instructions
+Today I am starting GitHub for the very first time...
